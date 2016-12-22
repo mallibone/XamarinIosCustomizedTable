@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTableHeader", "CustomTableHeader\CustomTableHeader.csproj", "{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Release|iPhone.Build.0 = Release|iPhone
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D3EFA808-CBD6-442C-AFBC-3B47A44D3959}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
